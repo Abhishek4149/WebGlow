@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/WebGlow/static/css/main.012009e3.css",
+    "main.js": "/WebGlow/static/js/main.0cfb94ee.js",
+    "static/js/453.5aa1d947.chunk.js": "/WebGlow/static/js/453.5aa1d947.chunk.js",
+    "static/media/image1.png": "/WebGlow/static/media/image1.bbea42896d99c433f871.png",
+    "index.html": "/WebGlow/index.html",
+    "main.012009e3.css.map": "/WebGlow/static/css/main.012009e3.css.map",
+    "main.0cfb94ee.js.map": "/WebGlow/static/js/main.0cfb94ee.js.map",
+    "453.5aa1d947.chunk.js.map": "/WebGlow/static/js/453.5aa1d947.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.012009e3.css",
+    "static/js/main.0cfb94ee.js"
+  ]
+}
