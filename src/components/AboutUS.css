@@ -1,0 +1,86 @@
+/* src/components/AboutUs.css */
+.about-us-container {
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .about-header {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .about-banner {
+    width: 100%;
+    max-height: 300px;
+    object-fit: cover;
+  }
+  
+  .about-header h1 {
+    font-size: 2.5rem;
+    margin-top: 20px;
+  }
+  
+  .about-header p {
+    font-size: 1.2rem;
+    color: #555;
+  }
+  
+  .about-mission, .about-vision, .about-values, .about-team, .about-achievements {
+    margin: 40px 0;
+  }
+  
+  .about-mission h2, .about-vision h2, .about-values h2, .about-team h2, .about-achievements h2 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+  }
+  
+  .about-mission p, .about-vision p, .about-achievements p {
+    font-size: 1.1rem;
+    line-height: 1.6;
+    color: #333;
+  }
+  
+  .about-image {
+    width: 100%;
+    max-width: 600px;
+    margin-top: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .about-values ul {
+    list-style-type: disc;
+    margin-left: 20px;
+  }
+  
+  .about-values li {
+    margin-bottom: 10px;
+    font-size: 1.1rem;
+  }
+  
+  .team-members {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .team-member {
+    text-align: center;
+  }
+  
+  .team-image {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+  }
+  
+  .team-member h3 {
+    margin-top: 10px;
+    font-size: 1.3rem;
+  }
+  
+  .team-member p {
+    font-size: 1rem;
+    color: #777;
+  }
+  
